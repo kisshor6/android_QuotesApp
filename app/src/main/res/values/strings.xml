@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="quote">quotes will display here...</string>
+    <string name="author">Author name</string>
+    <string name="quote_splash">Search the best Quote</string>
+</resources>
